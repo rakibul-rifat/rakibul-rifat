@@ -41,8 +41,8 @@
 
 ### 📫 Let’s Connect!
 - 💼 Portfolio: [https://rakibul-rifat.netlify.app/]
-- 🐙 GitHub: [github.com/Rakibul-Rifat]
-- 🌐 LinkedIn: [linkedin.com/in/rakibul-rifat]
+- 🐙 GitHub: [https://github.com/Rakibul-Rifat]
+- 🌐 LinkedIn: [https://linkedin.com/in/rakibul-rifat]
 - 💬 Email: rakibul.rifat44@gmail.com
 
 ---
