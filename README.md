@@ -40,9 +40,9 @@
 ---
 
 ### 📫 Let’s Connect!
-- 💼 Portfolio: [YourPortfolio.com](https://rakibul-rifat.netlify.app/)
-- 🐙 GitHub: [github.com/Rakibul-Rifat](https://github.com/Rakibul-Rifat)
-- 🌐 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/rakibul-rifat)
+- 💼 Portfolio: [https://rakibul-rifat.netlify.app/]
+- 🐙 GitHub: [github.com/Rakibul-Rifat]
+- 🌐 LinkedIn: [linkedin.com/in/rakibul-rifat]
 - 💬 Email: rakibul.rifat44@gmail.com
 
 ---
