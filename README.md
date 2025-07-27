@@ -1,47 +1,40 @@
-<h1 align="center">Hi 👋, I'm Rakibul</h1>
-<h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
+#  [Rakibul Islam] - Frontend Web Developer
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on **Full Stack Projects using MERN and Next.js**
-
-- 🌱 I’m currently learning **Advanced Backend, TypeScript, and System Design**
-
-- 👯 I’m open to collaborate on **Frontend or Full Stack Web Projects**
-
-- ⚡ Fun fact: I love creating smooth UI animations and solving frontend problems
+ Passionate about building responsive, user-friendly web applications with modern technologies. Experienced in both frontend and backend development, with a focus on React, Next.js, and cloud deployment.
 
 ---
 
-### 🛠️ Technologies & Tools
+##  Technologies & Tools
 
-#### 💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
-</p>
+### Frontend
+- **React.js** & **Next.js**
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**
+- **Tailwind CSS** | **Bootstrap**
+- **jQuery** (Animations & DOM Manipulation)
 
-#### 🧩 Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-</p>
+### Backend & Database
+- **Node.js** & **Express.js**
+- **MongoDB** (NoSQL Database)
+- Familiar with backend integrations and RESTful APIs
 
-#### ☁️ Deployment
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-000000?style=flat&logo=railway&logoColor=white"/>
-</p>
+### Deployment & Version Control
+- **Git & GitHub**
+- **Netlify**, **Vercel**, **Railway** (Deployment Platforms)
+- Continuous Deployment & CI/CD pipelines
+
+---
+
+##  Skills & Expertise
+
+- Building responsive UIs with modern frameworks and libraries
+- State management & component architecture in React
+- Styling with Tailwind CSS and Bootstrap
+- Animations with jQuery & CSS
+- Backend integration with Node.js and MongoDB
+- Serverless and cloud deployment (Netlify, Vercel, Railway)
+- Version control and collaborative development
 
 ---
 
@@ -54,16 +47,33 @@
 
 ---
 
-### 🔗 Connect with Me
+##  Contact Me
+
+- **Email:** your.email@example.com  
+- **GitHub:** [yourusername](https://github.com/yourusername)  
+- **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)  
+- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+##  Fun Facts
+
+- Always exploring new frontend frameworks and backend technologies
+- Passionate about UI/UX design & animations
+- Open to collaboration and freelance opportunities
+
+---
+
+##  Let's Connect & Build Something Awesome!
 
 <p>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/rakibul-rifat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="rakibul.rifat44@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.netlify.app" target="_blank">
+  <a href="https://rakibul.rifat.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
