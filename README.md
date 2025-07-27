@@ -49,10 +49,10 @@
 
 ##  Contact Me
 
-- **Email:** your.email@example.com  
-- **GitHub:** [yourusername](https://github.com/yourusername)  
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)  
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- **Email:** rakibul.rifat44@gmail.com  
+- **GitHub:** [rakibul rifat](https://github.com/rakibul-rifat)  
+- **LinkedIn:** [Rakibul Islam ](https://linkedin.com/in/rakibul-rifat)  
+- **Portfolio:** [rakibul-rifat.netlify.app](https://rakibul-rifat.netlify.app)
 
 ---
 
