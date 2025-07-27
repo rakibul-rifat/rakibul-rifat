@@ -4,15 +4,13 @@
 
  Passionate about building responsive, user-friendly web applications with modern technologies. Experienced in both frontend and backend development, with a focus on React, Next.js, and cloud deployment.
 
----
-
 ##  Technologies & Tools
 
 ### Frontend
-- **React.js** & **Next.js**
+- **React.js** 
 - **HTML5**, **CSS3**, **JavaScript (ES6+)**
-- **Tailwind CSS** | **Bootstrap**
-- **jQuery** (Animations & DOM Manipulation)
+- **Tailwind CSS** | **Bootstrap** | **Framer Motion** | **Animation CSS**
+- **jQuery Aniview** (Animations & DOM Manipulation)
 
 ### Backend & Database
 - **Node.js** & **Express.js**
@@ -31,7 +29,7 @@
 - Building responsive UIs with modern frameworks and libraries
 - State management & component architecture in React
 - Styling with Tailwind CSS and Bootstrap
-- Animations with jQuery & CSS
+- Animations with Framer Motion, jQuery & Animation CSS
 - Backend integration with Node.js and MongoDB
 - Serverless and cloud deployment (Netlify, Vercel, Railway)
 - Version control and collaborative development
@@ -51,7 +49,7 @@
 
 - **Email:** rakibul.rifat44@gmail.com  
 - **GitHub:** [rakibul rifat](https://github.com/rakibul-rifat)  
-- **LinkedIn:** [Rakibul Islam ](https://linkedin.com/in/rakibul-rifat)  
+- **LinkedIn:** [Rakibul Islam](https://linkedin.com/in/rakibul-rifat)  
 - **Portfolio:** [rakibul-rifat.netlify.app](https://rakibul-rifat.netlify.app)
 
 ---
