@@ -15,6 +15,7 @@
 ### Backend & Database
 - **Node.js** & **Express.js**
 - **MongoDB** (NoSQL Database)
+- **Firebase**
 - Familiar with backend integrations and RESTful APIs
 
 ### Deployment & Version Control
